@@ -92,7 +92,7 @@ Tracks:
 * Open moderation queue
 * Estimated moderator time saved
 
-## Tech Stack
+## Tech Stack: Built with
 
 * Reddit Devvit
 * TypeScript
