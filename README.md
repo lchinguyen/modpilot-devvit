@@ -209,13 +209,13 @@ ModPilot focuses on:
 8. Dashboard updates with flagged comment
 9. Analytics update automatically
 
-## developers.reddit.com app page
+## Devvit app link: Built-in Reddit Developers Platform
 
-Add your Devvit app link here.
+https://developers.reddit.com/apps/modassistcopilot
 
 ## Demo Video
 
-Add your demo video link here.
+https://www.youtube.com/watch?v=pQ19_BB5Bw4
 
 ---
 
