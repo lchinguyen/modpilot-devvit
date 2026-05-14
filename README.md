@@ -175,37 +175,20 @@ Body: DM me on Telegram
 5. Moderator reviews item
 6. Moderator reviews/removes/ignores content
 
-## Why ModPilot Stands Out
-
-Most moderation bots only remove content based on static keyword matching.
-
-ModPilot focuses on:
-
-* Moderation triage
-* Explainability
-* Human-in-the-loop moderation
-* Queue prioritization
-* Moderator workflow efficiency
-
-## Future Improvements
-
-* AI moderation scoring
-* Auto-moderation policies
-* Moderator collaboration notes
-* User reputation scoring
-* Queue filtering and search
-* Cross-community analytics
-* ML-based toxicity scoring
-
 ## Demo Flow
 
 1. Open ModPilot dashboard
-2. Submit suspicious Reddit post
+2. Submit suspicious Reddit post:
+   
+      Title: Free crypto giveaway
+   
+      Body: DM me on Telegram
+   
 3. Devvit trigger scans content
 4. Dashboard updates with HIGH-risk item
-5. Moderator reviews explanation
-6. Moderator removes or reviews content
-7. Submit suspicious comment
+5. Refresh the dashboard to view the flagged post in the moderation queue
+6. Moderator reviews explanation and suggest actions to chose from: Mark Reviewed, Ignore, Remove Post, Open original post
+7. Submit suspicious comment: DM me on Telegram for free crypto
 8. Dashboard updates with flagged comment
 9. Analytics update automatically
 
