@@ -2,6 +2,10 @@
 
 ModPilot is a Devvit-powered moderation assistant that helps Reddit moderators reduce queue overload by automatically triaging posts and comments.
 
+Devit app link: https://developers.reddit.com/apps/modassistcopilot
+
+Demo video: https://www.youtube.com/watch?v=pQ19_BB5Bw4
+
 ## Overview
 
 Moderators spend significant time manually reviewing spam, scams, harassment, toxic comments, low-effort posts, and repeated rule violations.
